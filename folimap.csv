@@ -1,0 +1,37 @@
+sno,NAME,LOCATION,capacity,LAT,LON,website,picture
+1,Andaman and Nicobar,16438,3,11.94237332,92.88957896,http://citizen.andaman.gov.in,https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands#/media/File:Barren_island.jpg
+2,Andhra Pradesh,368,17,16.5541242,79.91620298,http://www.appolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/andhra-pradesh-iwif-2016-1.jpg
+3,Arunachal Pradesh,27728,14,27.72576542,94.54532681,http://www.arunpol.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/arunachal-pradesh-iwif-2016.jpg
+4,Assam,16920,23,26.32134089,92.65731036,https://assampolice.assam.gov.in/citizen/login.aspx,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/assam-iwif-2016.jpg
+5,Bihar,8587,5,25.77139354,85.63677401,http://biharpolice.bih.nic.in/,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/bihar-iwif-2016.jpg
+6,Chandigarh,362,29,30.7426,76.75872466,http://citizenportal.chandigarhpolice.gov.in,https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands#/media/File:Barren_island.jpg
+7,Chhattisgarh,8329,9,21.55573858,82.12509334,http://citizenportal.cgpolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/chhattisgarh-iwif-2016.jpg
+8,Dadra and Nagar Haveli,14326,22,20.21513217,73.09454961,http://citizen.dnhpolice.gov.in,https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands#/media/File:Barren_island.jpg
+9,Daman and Diu,1633,28,20.49456979,72.41121191,http://citizen.ddpolice.gov.in,https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands#/media/File:Barren_island.jpg
+10,Delhi,3437,10,28.6459443,77.12804518,http://delhipolice.nic.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/delhi-iwif-2016.jpg
+11,Goa,7083,27,15.39350404,73.86601626,https://citizen.goapolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/goa-iwif-2016.jpg
+12,Gujarat,13514,16,22.37440585,72.19574739,https://police.gujarat.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/gujarat-iwif-2016.jpg
+13,Haryana,10461,11,29.19561628,76.52123743,http://haryanapoliceonline.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/haryana-iwif-2016.jpg
+14,Himachal Pradesh,28942,1,31.64946888,76.85561814,http://hppolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/himachal-pradesh-iwif-2016.jpg
+15,Jammu and Kashmir,37442,18,33.651699,75.00063062,http://www.jkpolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/jammu-and-kashmir-iwif-2016.jpg
+16,Jharkhand,271,20,23.76750555,85.85996246,https://jofs.jhpolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/jharkhand-iwif-2016.jpg
+17,Karnataka,571,4,14.36981709,76.29962468,https://policeseva.ksp.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/karnataka-iwif-2016.jpg
+18,Kerala,249,6,10.32670636,76.21770621,http://thuna.keralapolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/kerala-iwif-2016.jpg
+19,Lakshadweep,75,8,10.43639053,72.82992744,http://citizenportal.lakshadweeppolice.gov.in,https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands#/media/File:Barren_island.jpg
+20,Madhya Pradesh,20274,18,23.6356052,78.08249213,http://citizen.mppolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/madhya-pradesh-iwif-2016.jpg
+21,Maharashtra,5302,7,19.39251561,75.27055447,http://www.mhpolice.maharashtra.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/maharashtra-iwif-2016.jpg
+22,Manipur,41550,25,24.73897489,93.8644935,http://www.manipurpolice.gov.in/?p=1819,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/manipur-iwif-2016.jpg
+23,Meghalaya,172,21,25.48036736,91.2375107,http://citizenportal.meghpol.nic.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/meghalaya-iwif-2016.jpg
+24,Mizoram,5822,26,23.45835659,92.81661901,http://www.cctns.mizoram.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/mizoram-iwif-2016.jpg
+25,Nagaland,16027,2,26.06185708,94.3257526,http://nagapol.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/nagaland-iwif-2016.jpg
+26,Odisha,907,13,20.52959736,84.98396584,https://citizenportal-op.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/odisha-iwif-2016.jpg
+27,Puducherry,59853,24,11.94431293,79.75997363,http://citizenportal.police.py.gov.in,https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands#/media/File:Barren_island.jpg
+28,Punjab,2817,11,30.91206149,75.45295226,http://ppsaanjh.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/punjab-iwif-2016.jpg
+29,Rajasthan,30394,15,26.49328197,75.22539475,https://www.police.rajasthan.gov.in/,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/rajasthan-iwif-2016.jpg
+30,Sikkim,147,1,27.3376798,88.51230522,http://citizen.sikkimpolice.nic.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/sikkim-iwif-2016.jpg
+31,Tamil Nadu,442,18,11.15971133,78.76274652,http://tnpolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/tamil-nadu-iwif-2016.jpg
+32,Telangana,38,20,17.385044,78.486671,https://www.tspolice.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/telangana-iwif-2016.jpg
+33,Tripura,16,2,23.70930485,91.65871314,https://citizenportal.tripurapolice.nic.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/tripura-iwif-2016.jpg
+34,Uttar Pradesh,13640,5,27.06916343,80.65919244,https://cctnsup.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/uttar-pradesh-iwif-2016.jpg
+35,Uttaranchal,11,4,29.91025594,78.84563219,http://policecitizenportal.uk.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/uttarakhand-wifi-2016.jpg
+36,West Bengal,166,5,23.42134318,88.14959609,http://policesohaiyota.policewb.gov.in,https://thebetterindia-static.gumlet.io/wp-content/uploads/2017/03/west-bengal-iwif-2016.jpg
